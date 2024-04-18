@@ -5,6 +5,10 @@ edition = "2021"
 description = "Add zeros to the beggining of a number in Rust"
 license = "MIT"
 repository = "https://github.com/ChocolateLoverRaj/zero-pad"
+include = [
+    "**/*.rs",
+    "Cargo.toml",
+]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
